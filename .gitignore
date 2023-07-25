@@ -14,3 +14,5 @@ bin/*
 web/static/*
 !web/static/favicon.ico
 !web/static/robots.txt
+temp_auto_push.bat
+temp_interactive_push.bat
