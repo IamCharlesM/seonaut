@@ -6,6 +6,7 @@ config.local
 # Ignore any file in the bin folder except .gitignore
 
 bin/*
+temp_auto_push.bat
 !bin/.gitignore
 
 # Ignore any file in the web/static folder except favicon.ico and robots.txt
