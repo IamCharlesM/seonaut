@@ -14,6 +14,5 @@ bin/*
 web/static/*
 !web/static/favicon.ico
 !web/static/robots.txt
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
+config.bat
+node_modules
